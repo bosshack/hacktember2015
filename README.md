@@ -19,12 +19,12 @@ and it's always a great time.
 
 ## Projects
 
-To add a project, please send a Pull Request to this repository, adding it to
-the list below and adding a subdirectory in this repo that has a README in it
-describing your project.  Then link the entry in this list to your README.  To
-join a project, send a Pull Request to this repository adding yourself to this
-list underneath the project you'd like to help with.  I'll add an example
-project to make it clear what I mean.
+To add a project you'd like to work on, please send a Pull Request to this
+repository, adding it to the list below and adding a subdirectory in this repo
+that has a README in it describing your project.  Then link the entry in this
+list to your README.  To join a project, send a Pull Request to this repository
+adding yourself to this list underneath the project you'd like to help with.
+I'll add an example project to make it clear what I mean.
 
 - [Distributed Waffles](./distributed_waffles)
   - Josh Adams
