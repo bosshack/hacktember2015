@@ -17,6 +17,10 @@ component.
 In the September BOSS meeting on September 28, we'll all show off the projects
 and it's always a great time.
 
+## What experience level is necessary to be involved? 
+
+Anyone is welcome to get involved.  They're projects, so there will always be something that someone of any skill level can contribute to - documentation, user interface, manual testing, general brainstorming, etc.  Don't feel like just because you're not a kernel hacker you have nothing to offer!
+
 ## Projects
 
 To add a project you'd like to work on, please send a Pull Request to this
