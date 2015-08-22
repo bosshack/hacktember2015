@@ -33,3 +33,5 @@ I'll add an example project to make it clear what I mean.
 - [Distributed Waffles](./distributed_waffles)
   - Josh Adams
   - David Wilkins
+- [Raise Up Network](./raise_up_network)
+  - Anthony Crumley
